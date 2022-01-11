@@ -57,22 +57,22 @@ function my_keydown(e)
 	}
 	
 	else{
-		if(keyPressed == '38')
+		if(keyPressed == '37')
 		{
 			up();
 			console.log("up");
 		}
-		if(keyPressed == '40')
+		if(keyPressed == '38')
 		{
 			down();
 			console.log("down");
 		}
-		if(keyPressed == '37')
+		if(keyPressed == '39')
 		{
 			left();
 			console.log("left");
 		}
-		if(keyPressed == '39')
+		if(keyPressed == '40')
 		{
 			right();
 			console.log("right");
