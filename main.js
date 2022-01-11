@@ -112,6 +112,4 @@ function my_keydown(e)
 			// Write a code to move ball right side.
 		}
 	}
-	
 }
-
